@@ -169,8 +169,8 @@ public class frmhoroscopo extends javax.swing.JFrame {
         resultado.setText("piscis"); 
         }
         
-        Signo=new ImageIcon(getClass().getResource("/imagenes/"+resultado.getText()+".png"));
-        resultado.setIcon(Signo);
+        //Signo=new ImageIcon(getClass().getResource("/imagenes/"+resultado.getText()+".png"));
+        //resultado.setIcon(Signo);
         
     }//GEN-LAST:event_calcularActionPerformed
 
